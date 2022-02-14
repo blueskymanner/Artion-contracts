@@ -1,1 +1,1 @@
-# Artion-contracts
+# Smart contracts for Fantom Artion Marketplace
